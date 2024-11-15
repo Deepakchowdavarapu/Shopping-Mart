@@ -12,8 +12,7 @@ export default function Cart() {
   }
 
   const handleCheckout = () => {
-    // Replace with your Stripe payment URL
-    window.location.href = "https://your-stripe-payment-url.com";
+   
   };
 
   return (
